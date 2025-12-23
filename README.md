@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  I'm Mohamed Abd El-khaleq (Ani) 👨‍💻
+  I'm Mohamed Abd El-khaleq 👨‍💻
 </h3>
 
 <p align="center">
