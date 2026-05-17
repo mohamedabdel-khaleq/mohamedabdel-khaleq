@@ -58,6 +58,13 @@
   <a href="mailto:mohamedabdelkhaleq2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
   </a>
+    <a href="https://www.facebook.com/mohamed.abdelkhalek.77377">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook"/>
+  </a>
+
+  <a href="https://instagram.com/elkhaleq.mohamedabd">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
