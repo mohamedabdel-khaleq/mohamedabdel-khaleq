@@ -41,9 +41,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedabdel-khaleq&layout=donut&theme=tokyonight" />
-</p>
 
 ### 🔗 Connect with Me
 
